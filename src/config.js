@@ -1,6 +1,6 @@
 const config = {
   ipfsroot: "https://ipfs.io/ipfs/",
-  defaulthash: "QmVbmP51zPfWpes1BTAUDs8fMCePvP5Vp8wbsFJAqcjXg8",
+  defaulthash: "QmPQbPL2nwumRtyTxEqsEqcPGcxrpy9tc3Xx6fxEKeikBi",
 };
 
 export default config;
