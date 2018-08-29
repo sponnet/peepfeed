@@ -7,6 +7,8 @@ Quick REACT frontend to Peepeth sliced data.
 It is based on a preprocessor that creates static slices of peepeth data which are linked together as a chronological feed of peeps.
 This frontend starts with the latest IPFS hash of a (processed) peep - and walks to the next hash etc.
 
+The pre-processor is here : https://github.com/sponnet/peepin
+
 This is uncensored.
 
 ## Running
